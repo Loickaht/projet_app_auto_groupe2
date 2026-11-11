@@ -1,1 +1,8 @@
-Travail de P4 (Prenom) : étapes 1.7, 1.11 et 1.12.
+Séance : 01
+Nom : ZOGO James
+Porteur : P4
+
+Étapes assignées :
+1.7 : trous
+1.11 : cardinalité
+1.12 : cibles
